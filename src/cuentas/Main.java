@@ -1,6 +1,5 @@
 package cuentas;
 
-
 import cuentas.CCuenta;
 
 public class Main {
