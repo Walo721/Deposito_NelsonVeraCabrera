@@ -1,5 +1,6 @@
 package cuentas;
 
+
 public class CCuenta {
 
     private String nombre;
